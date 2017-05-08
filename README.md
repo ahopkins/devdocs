@@ -1,4 +1,4 @@
-# devdocs
+# skemdocs-backend
 
 This is a temporary name for a project in active development.
 
@@ -18,3 +18,5 @@ All **LOCAL** settings should be stored in `backend/config/settings/local.py`. W
 The other file you will need to create is `backend/config/settings/__init__.py` which also is excluded by `.gitignore`. The contents of this file should be:
 
     from .development import *
+
+Please feel free to join our Gitter Chat: https://gitter.im/skemdocs/Lobby
